@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location_button">Use current location</string>
+    <string name="edit_text_hint">City name</string>
+    <string name="background_des">Background image of clounds</string>
+    <string name="search_button_des">Search button</string>
+    <string name="loading_text">Loading…</string>
+</resources>
